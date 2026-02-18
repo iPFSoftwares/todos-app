@@ -1,0 +1,4 @@
+{
+  "json.schemaDownload.enable": false,
+  "docker.lsp.experimental.vulnerabilityScanning": false
+}
